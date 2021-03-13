@@ -1,0 +1,19 @@
+{
+  "name": "wabot-orangecat",
+  "version": "0.0.1",
+  "description": "Ini Bot WA MultiFungsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OrangeCat2528",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.9.3",
+    "colors": "^1.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "mathjs": "^9.3.0",
+    "moment": "^2.29.1",
+    "sharp": "^0.27.2"
+  }
+}
